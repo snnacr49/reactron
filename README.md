@@ -1,13 +1,17 @@
 # Reactron
 React.js + Electron.js template for application development
 
+![alt text](/design/screen.png "Reactron")
+
 Run for start development version
 ```
-// yarn start
+yarn start
 ```
 Run for build a pre-release production app.
 ```
-// yarn build
+yarn build
+// or 
+yarn release
 ```
 
 #### Installed components
@@ -45,7 +49,7 @@ Develop Dependencies
 
 Create Icons Pack
 ```
-// https://github.com/jaretburkett/electron-icon-maker
+https://github.com/jaretburkett/electron-icon-maker
 
 npm install -g electron-icon-maker
 electron-icon-maker --input=file-name.png --output=./assets
