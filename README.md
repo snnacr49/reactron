@@ -1,5 +1,4 @@
 # Reactron
-#### Don't work, under development!
 React.js + Electron.js template for application development
 
 Run for start development version
@@ -51,3 +50,17 @@ Create Icons Pack
 npm install -g electron-icon-maker
 electron-icon-maker --input=file-name.png --output=./assets
 ```
+
+Made on the basis of repositories:   
+[fkhadra/cra-electron],   
+[kodeflex/electron-cra],   
+[kitze/react-electron-example]  
+Thank you for the work done!
+
+
+2019 &#169; Xgraf
+
+[fkhadra/cra-electron]: https://github.com/fkhadra/cra-electron
+[kodeflex/electron-cra]: https://github.com/kodeflex/electron-cra
+[kitze/react-electron-example]: https://github.com/kitze/react-electron-example  
+
