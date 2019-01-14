@@ -5,9 +5,9 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Xgraf/reactron.git"
+    "url": "git+https://github.com/Xgraf/reactron.git"
   },
-  "author": "Dmitriy Zatulovskiy <workroompost@gmail.com> (https://networkroom.ru)",
+  "author": "Dmitriy Zatulovskiy <xgrafpost@gmail.com> (https://networkroom.ru)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Xgraf/reactron/issues"
