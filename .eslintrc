@@ -1,0 +1,7 @@
+{
+	"extends": "eslint-config-react-app",
+	"rules": {
+		"arrow-body-style": 0,
+		"array-callback-return": 0
+	}
+}
